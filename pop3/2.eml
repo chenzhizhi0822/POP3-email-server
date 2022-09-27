@@ -1,0 +1,61 @@
++OK 2219 octets
+Received: from qq.com (unknown [59.36.132.123])
+	by mx70 (Coremail) with SMTP id J91pCgBn0KMitJRitF3LAg--.52730S3;
+	Mon, 30 May 2022 20:10:10 +0800 (CST)
+X-QQ-GoodBg: 2
+X-QQ-SSF: 00400000000000F0
+X-QQ-FEAT: St3bwald4opd8KTdPnZ+ALoPGDYZv3VgEtwIAD2Xk1BtV1SISsztK8elS8/Kq
+	oU2uAyLCmlSOM7CAj9b/g2E9jW4mmSJPlhDbSMli2XebcB8s0QG2X0FMkIA3CzEs517RFxh
+	M3yOYBT2dcDZdaah0J58NC7VTkApWWtu5FHIUzGXu75Nsnpb5IJnpBUikpm2/AdAhVTmAb0
+	J+tQRA0EEf5qlvX9F6+AZx1EKJ8wYx3UjxjK8UYszdE5cl2OxEongrh4l3etwjbTkgi9dGu
+	+YwEGRsxefxr4/0JWVWM4Pv2dfVMt229IO2hE6kyuSwOHPCoMFw/4hBe+W11ykhqhB8eaX9
+	ZdFhrX4BKapirXNc7HK28salNNdu9Z6r45Trr9z4HG6WqMLYPvtGymxLMd/Zw==
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 223.72.3.254
+X-QQ-STYLE: 
+X-QQ-mid: llogic71t1653912607t6028942
+From: "=?utf-8?B?6ZmI5b+X5oms?=" <chenzhizhi@bupt.edu.cn>
+To: "=?utf-8?B?bWFydXlhbWFheWFidXB0?=" <maruyamaayabupt@163.com>
+Subject: test subject2
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_6294B41F_1923D138_2D369749"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 30 May 2022 20:10:07 +0800
+X-Priority: 3
+Message-ID: <tencent_45341E2B3B18FC19786E9C28@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-SENDSIZE: 520
+Received: from qq.com (unknown [127.0.0.1])
+	by smtp.qq.com (ESMTP) with SMTP
+	id ; Mon, 30 May 2022 20:10:09 +0800 (CST)
+Feedback-ID: llogic:bupt.edu.cn:qybgweb:qybgweb16
+X-CM-TRANSID:J91pCgBn0KMitJRitF3LAg--.52730S3
+Authentication-Results: mx70; spf=none smtp.mail=chenzhizhi@bupt.edu.c
+	n;
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUSNeoUUUUU
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_6294B41F_1923D138_2D369749
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+test content2
+&nbsp;
+------=_NextPart_6294B41F_1923D138_2D369749
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGRpdj48Zm9udD50ZXN0IGNvbnRlbnQyPC9mb250PjwvZGl2PjxkaXY+Jm5ic3A7PC9kaXY+
+PGRpdj48aW5jbHVkZXRhaWw+PCEtLTwhW2VuZGlmXS0tPjwvaW5jbHVkZXRhaWw+PC9kaXY+
+
+
+------=_NextPart_6294B41F_1923D138_2D369749--
+.
+	
